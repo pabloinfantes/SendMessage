@@ -12,5 +12,5 @@
     <string name="tvUser">"Destinatario: "</string>
     <string name="tvMessage">Mensaje</string>
     <string name="btSend">Enviar</string>
-    <string name="action_about">About</string>
+    <string name="action_about">Sobre nosotros</string>
 </resources>
